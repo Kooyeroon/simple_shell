@@ -2,7 +2,7 @@
 /**
  * cd_fun - changes the current directory of the process
  * @info: contains simulated arguments for a function pointer,
- *		  allowing for a consistent function prototype
+ *		  allowing for a consistent func prototype
  *
  * Return: 0
  */
