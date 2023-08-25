@@ -1,7 +1,7 @@
 #include "shell.h"
 
 /**
- * take_input - gets a line minus the newline
+ * take_input - gets a line 
  * @info: parameter struct
  *
  * Return: bytes read
