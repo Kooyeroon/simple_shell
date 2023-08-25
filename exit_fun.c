@@ -2,7 +2,7 @@
 
 /**
  * exit_fun - exits the shell
- * @info: contains simulated arguments for a function pointer,
+ * @info: contains simulated arguments for a func pointer,
  * allowing for a consistent function prototype
  * Return: exits with a given exit status
  * (0) if info.argv[0] != "exit"
