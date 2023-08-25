@@ -3,7 +3,7 @@
 
 /**
  * _getline - gets the next line of input from STDIN
- * @info: parameter struct
+ * @info: parameter struct as defined in shell.h
  * @ptr: address of pointer to buffer, preallocated or NULL
  * @length: size of preallocated ptr buffer if not NULL
  *
